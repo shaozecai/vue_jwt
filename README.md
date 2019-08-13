@@ -2,33 +2,22 @@
 
 ## Project setup
 ```
-npm install
-```
+cd myapp
 
-### Compiles and hot-reloads for development
-```
+npm install
+
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Start server
 ```
-npm run build
+cd myapp-server
+
+npm install
+
+npm start
 ```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 博客文档地址
+See [shaozecai.com](http://shaozecai.com/2019/08/13/vue%E7%9A%84jwt%E8%AE%A4%E8%AF%81/)
